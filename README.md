@@ -1,3 +1,5 @@
+Google colab link: https://colab.research.google.com/drive/1YJk_FBoWo6fQPWlpM4SQaXr0IWW7e_rB
+
 # Logistics-Regression
 Rock vs Mine Prediction using Sonar Data
 
